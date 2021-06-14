@@ -1,2 +1,2 @@
 # higher-lower
-beginner level python project (day14)
+beginner level python project
